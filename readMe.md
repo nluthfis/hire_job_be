@@ -7,6 +7,10 @@ Backend for Hire Job built with Express and Mysql.
 [Deploy Frontend](https://fe-next-hire-job.vercel.app) <br>
 [Frontend Repository](https://github.com/nluthfis/fe-next-hire-job)
 
+# Postman Link
+
+[![Run in Postman](https://elements.getpostman.com/redirect?entityId=26602283-94d4c1e1-835b-46b7-9c47-64d7d2cd4eae&entityType=collection)
+
 ## Install
 
 how to install in yout local, you can clone this repo with

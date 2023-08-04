@@ -9,7 +9,7 @@ Backend for Hire Job built with Express and Mysql.
 
 # Postman Link
 
-[![Run in Postman](https://elements.getpostman.com/redirect?entityId=26602283-94d4c1e1-835b-46b7-9c47-64d7d2cd4eae&entityType=collection)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://elements.getpostman.com/redirect?entityId=26602283-94d4c1e1-835b-46b7-9c47-64d7d2cd4eae&entityType=collection)
 
 ## Install
 
